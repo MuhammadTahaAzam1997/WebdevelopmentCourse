@@ -1,0 +1,17 @@
+Complete Website development - Code with Harry
+Paly list Link: https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+
+Technologies covered:
+---------------------------
+1- HTML
+2- CSS
+3- JS
+4- Node JS
+5- MongoDB
+6- Hosting tutorials
+
+Practice project
+------------------------------
+Plotting corona virus cases
+Real time chat application
+Responsive website
